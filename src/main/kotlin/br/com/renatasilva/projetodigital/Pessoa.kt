@@ -3,6 +3,9 @@ package br.com.renatasilva.projetodigital
 class Pessoa {
     var nome = "Renata"
     var cpf = "123.123.123.12"
+    private set
+
+
 
 }
 fun main() {
